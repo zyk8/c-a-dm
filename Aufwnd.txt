@@ -1,2 +1,5 @@
+PS D:\Angular\cocktail-app\c-a-dm>  git config --global user.email "m.pospieszczyk@gmx.de"
+PS D:\Angular\cocktail-app\c-a-dm>  git config --global user.name "zyk8"
+
 Aufwände:
 04.07.2018 22:00
